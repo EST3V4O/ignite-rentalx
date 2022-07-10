@@ -8,11 +8,11 @@
 
 **RF**
 - [] Deve ser possível cadastra um novo carro
-- [] Deve ser possível listar todas as categorias
+<!-- - [] Deve ser possível listar todas as categorias -->
 
 **RN**
 - [] Não de ser possível castrar um carro com uma placa já existente
-- [] Não deve ser possível alterar a placa de uma carro já cadastrado
+<!-- - [] Não deve ser possível alterar a placa de uma carro já cadastrado -->
 - [] O carro deve ser cadastrado, por padrão com disponibilidade
 - [] O usuário responsável pelo cadastro dever ser um usuário administrador
 
