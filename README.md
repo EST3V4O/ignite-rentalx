@@ -51,6 +51,7 @@ Utilizar o multer para upload dos arquivos
 **RN**
 - [] O usuário deve poder cadastrar mais de uma imagem para o mesmo carro
 - [] O usuário responsável pelo cadastro dever ser um usuário administrador
+- [] Ao realizar um aluguel, o status do carro deverá ser alterado para indisponível
 
 # Aluguel de carro
 
