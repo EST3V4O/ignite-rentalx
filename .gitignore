@@ -2,5 +2,6 @@ node_modules/
 .vscode/
 tmp/*
 .env
+coverage/
 
 yarn-error.log
