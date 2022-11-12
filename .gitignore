@@ -1,8 +1,10 @@
-node_modules/
-.vscode/
+node_modules
+.vscode
 tmp/*
+coverage
 .env
-coverage/
-dist/
+!tmp/.gitkeep
+dist
+ormconfig.json
 
 yarn-error.log
